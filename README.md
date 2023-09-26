@@ -4,6 +4,14 @@
 
 This project is a redesign of the Tesla website homepage, featuring responsive design and interactive navigation.
 
+
+![image](https://github.com/Abhigyankrsingh/Tesla_Clone/assets/72941693/f381229b-c622-443c-82f7-6cb9e7af8986)
+![image](https://github.com/Abhigyankrsingh/Tesla_Clone/assets/72941693/60a96660-af97-438f-b732-19bab3b4ff8b)
+![image](https://github.com/Abhigyankrsingh/Tesla_Clone/assets/72941693/cb58a057-9e83-4be5-911c-db4c05ee2844)
+
+
+
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -58,15 +66,9 @@ You can use this project as a template for creating your own website or as a ref
 
 ## Credits
 
-This project was created by [Your Name]. It includes the following resources:
+This project was created by me. It includes the following resources:
 
 - Tesla logo and icons: [Tesla, Inc.](https://www.tesla.com/)
 - Background images: [Unsplash](https://unsplash.com/)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README to include more specific details about your project, such as dependencies or additional features. Additionally, replace `[Your Name]` with your actual name or the names of contributors to the project.
